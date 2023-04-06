@@ -1,0 +1,8 @@
+.users {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    &:focus {
+        color: darkgreen;
+    }
+}
